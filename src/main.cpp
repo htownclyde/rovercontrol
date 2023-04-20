@@ -79,10 +79,9 @@ void read(){
   }
   while(analogRead(motorInput)<1700){   // FORWARD
     drive(CW, 0);
-    }  
+  }  
   while(analogRead(motorInput)>2000){   // BACKWARD
     drive(CCW, 0);
-
   }                       
   digitalWrite(pwmLMotor, HIGH);          // STOPPED
   digitalWrite(pwmRMotor, HIGH);          // STOPPED

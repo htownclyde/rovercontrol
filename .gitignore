@@ -44,3 +44,6 @@
 .pio/build/esp_wroom_02/firmware.map
 .pio/build/esp_wroom_02/idedata.json
 .pio/build/project.checksum
+*.dblite
+*.bin
+*.elf
