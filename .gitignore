@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+.pio/build/esp_wroom_02/.sconsign39.dblite
+.pio/build/esp_wroom_02/bootloader.bin
+.pio/build/esp_wroom_02/firmware.bin
+.pio/build/esp_wroom_02/firmware.elf
+.pio/build/esp_wroom_02/firmware.map
+.pio/build/esp_wroom_02/idedata.json
+.pio/build/project.checksum
